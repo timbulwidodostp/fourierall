@@ -1,4 +1,16 @@
-D 'xtsurmg': Fourier Seemingly Unrelated Regression Mean Group Estimator Use xtsurmg With STATA 19
+D 'fourierall': Run all Fourier unit root and stationarity tests Use fourierall With STATA 19
 D
-F xtsurmg.ado
-F xtsurmg.sthlp
+F fourierall.ado
+F fourierall.sthlp
+F fourierdf.ado
+F fourierdf.sthlp
+F fourierdfdf.ado
+F fourierdfdf.sthlp
+F fourierfffff.ado
+F fourierfffff.sthlp
+F fouriergls.ado
+F fouriergls.sthlp
+F fourierkpss.ado
+F fourierkpss.sthlp
+F fourierlm.ado
+F fourierlm.sthlp
