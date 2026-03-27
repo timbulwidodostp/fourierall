@@ -1,6 +1,8 @@
 # fourierall
 Run all Fourier unit root and stationarity tests Use fourierall With STATA 19
 
+https://www.youtube.com/watch?v=gJJELm1SE8c
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
